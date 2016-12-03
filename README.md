@@ -39,4 +39,4 @@ _設計資料リンク_
   - カラー
 
 ### 画面遷移図
-![画面遷移](https://github.com/nira28/MemoApp/blob/master/files/screen.png)
+![画面遷移](MemoApp/files/screen.png)
